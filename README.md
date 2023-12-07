@@ -1,7 +1,7 @@
 # Power-BI-Life-Expectancy-Analysis
 This GitHub repository hosts a comprehensive analysis of global life expectancy trends, incorporating data from 193 countries and spanning the years 2000 to 2015. The analysis covers key aspects such as average life expectancy, GDP, population, and country-specific insights.
 
-# Click link to view interactive reporthttps://app.powerbi.com/view?r=eyJrIjoiNjZmNjkyYzctOTkzNS00MDIwLWI0ZjAtNTU1NmU0YjJkNDZjIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9 
+# Click link to view interactive report https://app.powerbi.com/view?r=eyJrIjoiNjZmNjkyYzctOTkzNS00MDIwLWI0ZjAtNTU1NmU0YjJkNDZjIiwidCI6ImRiODQ3YzVhLTRlY2YtNGIxOS05NDk3LTE2MzM5NGIwNDI4OSJ9 
 
 **Data Cleaning & Transformation:**
 The dataset, consisting of 22 columns and over 1 million rows, underwent meticulous cleaning and transformation. Null values in the "Life_Expectancy" column were replaced with zero, and all figures were rounded to one decimal point to ensure data validity and consistency.
